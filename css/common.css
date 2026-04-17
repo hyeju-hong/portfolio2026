@@ -139,7 +139,7 @@ header .line li.on a {
 
 footer {
     width: 100%;
-    height: 320px;
+    height: 30vh;
     background-color: var(--main-red);
 
     /* display: flex; */
